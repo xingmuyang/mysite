@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fda6361-ac5d-4c76-a45a-4d209b6a6749" name="watchtower" url="http://192.168.44.234">
+        <fileTransfer host="192.168.44.234" port="22" rootFolder="/home/xufuhai/watchtower" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
